@@ -7,17 +7,13 @@ from scipy.signal import find_peaks
 import pandas as pd
 
 st.set_page_config(page_title="NV Diamond Quantum Sensor", page_icon="💎", layout="wide")
-st.set_page_config(page_title="NV Diamond Quantum Sensor", page_icon="💎", layout="wide")
-
-
 st.sidebar.markdown("### ☕ Support My Research")
-st.sidebar.link_button("Buy Me a Coffee", "https://buymeacoffee.com/nvdiamond")
 st.sidebar.markdown("**Easypaisa: 03354298408**")
+st.sidebar.caption("Your support keeps this free tool alive for Pakistani students.")
 st.sidebar.divider()
-
-
 st.markdown("""
 <style>
+
 .big-font {font-size:18px!important; font-weight:600}
 .metric-box {background:#f0f2f6; padding:20px; border-radius:15px; border-left:5px solid #0e76a8}
 </style>
