@@ -28,5 +28,8 @@ The dip in fluorescence indicates the resonance frequency shift due to the magne
 ## Tech Stack
 Python NumPy Matplotlib Quantum Physics Data Visualization
 
+## ODMR (Optically Detected Magnetic Resonance) APP link
+https://nv-diamond-ai-sensor-qsevu94ga3gtpywbavvpes.streamlit.app/
+
 ## Author
 Muhammad Musa
