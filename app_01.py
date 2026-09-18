@@ -7,6 +7,14 @@ from scipy.signal import find_peaks
 import pandas as pd
 
 st.set_page_config(page_title="NV Diamond Quantum Sensor", page_icon="💎", layout="wide")
+st.set_page_config(page_title="NV Diamond Quantum Sensor", page_icon="💎", layout="wide")
+
+
+st.sidebar.markdown("### ☕ Support My Research")
+st.sidebar.link_button("Buy Me a Coffee", "https://buymeacoffee.com/nvdiamond")
+st.sidebar.markdown("**Easypaisa: 03354298408**")
+st.sidebar.divider()
+
 
 st.markdown("""
 <style>
