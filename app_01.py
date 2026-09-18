@@ -56,9 +56,3 @@ st.pyplot(fig, clear_figure=True)
 
 st.success(f"✅ LOCKED | f1={f1_est:.4f} GHz, f2={f2_est:.4f} GHz")
 st.markdown("**Formula:** B = (f2 - f1) / (2 * γ), γ=28 MHz/mT")
-    f.write("streamlit\\nnumpy\\nmatplotlib\\nscipy\\n")
-
-print("✅ app_Ai.py FIXED! Ab download kar sakte ho")
-
-with open("app_Ai.py" ,"r") as f:
-  print(f.read())
